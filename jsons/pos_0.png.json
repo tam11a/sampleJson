@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 28602834,
+            "classId": 17389,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "muyeed",
+            "createdAt": "2021-11-24T04:04:09.702Z",
+            "updatedAt": "2021-11-24T04:04:09.702Z",
+            "tags": [
+                {
+                    "id": 29485103,
+                    "tagId": 32292,
+                    "name": "Type",
+                    "value": "SUV",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29485102,
+                    "tagId": 32295,
+                    "name": "Pose",
+                    "value": "Rear",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29485101,
+                    "tagId": 32297,
+                    "name": "Model",
+                    "value": "UN",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29485100,
+                    "tagId": 32296,
+                    "name": "Make",
+                    "value": "Lexus",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29485099,
+                    "tagId": 32291,
+                    "name": "Color",
+                    "value": "Silver",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        3
+                    ],
+                    [
+                        773,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 28602833,
+            "classId": 17388,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "muyeed",
+            "createdAt": "2021-11-24T04:04:09.702Z",
+            "updatedAt": "2021-11-24T04:04:09.702Z",
+            "tags": [
+                {
+                    "id": 29485098,
+                    "tagId": 32293,
+                    "name": "Difficulty Score",
+                    "value": "0",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29485097,
+                    "tagId": 32290,
+                    "name": "Value",
+                    "value": "CA, 7LVS119",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                }
+            ],
+            "classTitle": "License Plate",
+            "points": {
+                "exterior": [
+                    [
+                        535,
+                        158
+                    ],
+                    [
+                        622,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

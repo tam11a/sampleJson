@@ -1,0 +1,80 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 720,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 28636340,
+            "classId": 17389,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "muyeed",
+            "createdAt": "2021-11-24T04:04:09.702Z",
+            "updatedAt": "2021-11-24T04:04:09.702Z",
+            "tags": [
+                {
+                    "id": 29607253,
+                    "tagId": 32296,
+                    "name": "Make",
+                    "value": "Mercedes-Benz",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29607252,
+                    "tagId": 32292,
+                    "name": "Type",
+                    "value": "SUV",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29607251,
+                    "tagId": 32295,
+                    "name": "Pose",
+                    "value": "Rear",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29607250,
+                    "tagId": 32297,
+                    "name": "Model",
+                    "value": "UN",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                },
+                {
+                    "id": 29607249,
+                    "tagId": 32291,
+                    "name": "Color",
+                    "value": "Silver",
+                    "labelerLogin": "muyeed",
+                    "createdAt": "2021-11-24T04:04:09.702Z",
+                    "updatedAt": "2021-11-24T04:04:09.702Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        770,
+                        0
+                    ],
+                    [
+                        882,
+                        306
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
